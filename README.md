@@ -1,3 +1,5 @@
+LIVE DEMO - https://aibtsjava-production.up.railway.app
+
 🧠 KN AIBTS – Asset Intelligence & Trust System
 
 KN AIBTS (Asset Intelligence & Trust System) is a full-stack Java web application designed to manage institutional assets with behavior-based trust scoring, silent depreciation, audit logging, and DNA-style asset evolution tracking.
